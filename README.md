@@ -1,5 +1,5 @@
 # Codility Lessons in Java 8
-Codility solutions in Java, it's a pure IntelliJ project so configuration files are available in case you decide to open 
+Codility solutions in Java 8, it's a pure IntelliJ project so configuration files are available in case you decide to open 
 it directly.
 
 Tests are implemented using TestNG framework, but in case TestNG classes will not found remember to add the 
