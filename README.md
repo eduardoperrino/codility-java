@@ -1,4 +1,4 @@
-# codility-java
+# Codility Lessons in Java 8
 Codility solutions in Java, it's a pure IntelliJ project so configuration files are available in case you decide to open 
 it directly.
 
